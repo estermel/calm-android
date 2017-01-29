@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.ester.calm.view.OrderActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        app:titleTextColor="#ffffff"
+        android:titleTextColor="#ffffff"
+        app:layout_scrollFlags="scroll|enterAlways"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:context="com.ester.calm.activity.OrderActivity"
+        tools:showIn="@layout/activity_order"
+        android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="15dp"
+            android:paddingTop="60dp"
+            android:paddingRight="20dp"
+            android:text="Pilihan Layanan" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="60dp"
+            android:textStyle="bold"
+            android:paddingBottom="15dp"
+            android:id="@+id/username_sharedPref"
+            android:text="username kamu"/>
+
+
+
+    </LinearLayout>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:text="Creambath"
+            android:id="@+id/tv_produk_pilihan"
+            android:textSize="17dp"
+            android:textStyle="bold" />
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_place_black_24dp"
+                android:paddingRight="5dp" />
+
+            <Spinner
+                android:id="@+id/spLokasiAsrama"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:clickable="true"
+                android:contentDescription="Lokasi Asrama"
+                android:entries="@array/asrama_arrays"
+                android:prompt="@string/asrama" />
+
+            <Spinner
+                android:id="@+id/spNoKamar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:contentDescription="No Kamar"
+                android:entries="@array/noKamar_arrays"
+                android:prompt="@string/noKamar" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_today_black_24dp"
+                android:paddingRight="5dp" />
+
+            <EditText
+                android:id="@+id/etTanggalOrder"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:hint="Tanggal order" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_access_time_black_24dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="5dp" />
+
+            <Spinner
+                android:id="@+id/spJamOrder"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal"
+                android:contentDescription="Jam Order"
+                android:entries="@array/jamOrder_arrays"
+                android:prompt="@string/jamOrder" />
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/etJus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Jus (isi jika ingin order)" />
+
+        <Button
+            android:id="@+id/btnOrder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/orange"
+            android:text="Order"
+            android:layout_marginTop="30dp"
+            android:textColor="#fff"/>
+
+    </LinearLayout>
+
+
+    <ProgressBar
+        style="@style/Base.Widget.AppCompat.ProgressBar"
+        android:id="@+id/progress"
+        android:visibility="invisible"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:indeterminate="true" />
+
+</android.support.design.widget.CoordinatorLayout>

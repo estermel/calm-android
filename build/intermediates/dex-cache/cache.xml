@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ester\.android\build-cache\a6ccfb1a8692a3efd62c31ed0b859c40e99f8a53\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="F:\Calm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ae7b60ca69582e170efc46e5e97b2b53afbcd04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ester\AppData\Local\Android\sdk3\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="F:\Calm\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha7_002ddca58698bcf30e2319db8d38b83b963548ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Calm\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa99185b954f990c671d7085ec4dfaba5a13e77b">
+        <dex dex="F:\Calm\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f645122d5aa169cac781fad24e1dd887e80432a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ester\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="F:\Calm\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_43590ff4d6fbcca92a188479579d12789728489a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ester\.android\build-cache\f4cbc33d2011831eaf603c3dbdb7751c0b62584a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\Calm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be44c8fbc38de4a532a2d499dbc976f6a682753b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ester\.android\build-cache\f4cbc33d2011831eaf603c3dbdb7751c0b62584a\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\Calm\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_12fec18f679674674254be32fa86244f007fb34b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ester\.gradle\caches\modules-2\files-2.1\com.uncopt\android.justified\1.0\d90b10f956c74ade92433bc662b7bd920bb10b72\android.justified-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d90b10f956c74ade92433bc662b7bd920bb10b72">
+        <dex dex="F:\Calm\app\build\intermediates\transforms\dex\debug\folders\1000\10\android.justified-1.0_7676938d29334c204cdf2e02a595a19db202f105\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ester\.android\build-cache\a139ec08ff98ba306c28c89965b4b6007c43ddbd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\Calm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d54ffc28e93f852d1e645004dc03e580f76544d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ester\.android\build-cache\9ba3743421fc9438a4fc137ac15ed21a029c338b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="F:\Calm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_54966fddada2e6d4c76c9837dc5a09b0bae6759e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ester\.android\build-cache\3468ac2b2f8dc1179e9542f563fdd014d2284768\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\Calm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff832d37bc35245dfafe87fd5ac96e003e7270c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ester\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="F:\Calm\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_f1cb1bf373f378edd6675d0ff6be94c477533611\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ester\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="F:\Calm\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_abb40b35189f7442f6886d66259096ec938c8974\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ester\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.0\49eb3ad545e7701234e4dd83db8dc1344b577f23\converter-gson-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="F:\Calm\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.0_7f7bee4fe7a91392a7d7a410c4dbd81a99cab95f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ester\.android\build-cache\72793c1f2e0e0404311a7f385f98366319f02684\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="F:\Calm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c178ad9c1b13527b2cc98e57aedc21f777dcbc09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ester\AppData\Local\Android\sdk3\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\Calm\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_24c885e16ebebd80c0e7a39899d42b79da519d52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ester\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="F:\Calm\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_339d5d71140e669c5d37678c8e5f30c888a1b914\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ester\.android\build-cache\0f86a79f166b2a0cd87e93a8faee9c2ecd025cc8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="F:\Calm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a8feb209c93c53c5c610650e30a8d79240b3098\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Calm\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53cb4a17c5d4c95f850e380ef5abdec49b36d8d5">
+        <dex dex="F:\Calm\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_510391f22f5db192f8b04f323a30f6be81d307c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ester\.android\build-cache\5fa5cd35ad3b840edf4647d0b93c374c363efeac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\Calm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1af5c7784bfd8db152a2de2af614cbdc068b6e87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ester\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0\5c06d197fb7fa875ad452f562e3310dd9949d066\retrofit-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="F:\Calm\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.0_a7edd106ec4f63950a879f83b379c26d6bcf3a4e\classes.dex" />
+    </item>
+
+</items>
